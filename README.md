@@ -1,0 +1,2 @@
+# prenotazioniCampo
+un piccolo software gestionale, realizzato mediante l'ausilio dei file .txt per lo storage delle informazioni, che permette di gestire le prenotazioni di un campetto di calcio, pallavolo ecc.... Il software permette la creazione dei giocatori con attributi: nome , cognome, data di nascita, luogo di nascita, documento di riconoscimento, certificato medico e di visualizzare i giocatori mancanti o scaduti 
